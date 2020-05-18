@@ -1,4 +1,4 @@
-package com.prueba;
+/*package com.prueba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,10 +10,10 @@ public class PruebaApplication {
 		SpringApplication.run(PruebaApplication.class, args);
 	}
 
-}
+}*/
 
 
-/*
+
 package com.prueba;
 
 import org.springframework.boot.SpringApplication;
@@ -51,4 +51,4 @@ public class PruebaApplication {
 	}
 
 }
-*/
+
